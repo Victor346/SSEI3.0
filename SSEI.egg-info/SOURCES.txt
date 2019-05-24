@@ -1,0 +1,9 @@
+setup.py
+SSEI/__init__.py
+SSEI/blueprints.py
+SSEI/celeries.py
+SSEI.egg-info/PKG-INFO
+SSEI.egg-info/SOURCES.txt
+SSEI.egg-info/dependency_links.txt
+SSEI.egg-info/requires.txt
+SSEI.egg-info/top_level.txt

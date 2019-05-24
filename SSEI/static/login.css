@@ -1,0 +1,26 @@
+#sigin {
+    max-width: 720px;
+
+}
+#siginmobile{
+    display: none;
+}
+#wrapper {
+    margin: 0;
+}
+
+@media (max-width: 720px) {
+    #sigin {
+        display: none;
+
+    }
+    #siginmobile{
+        display: flex;
+
+
+    }
+
+    #logomovil{
+        max-width: 150px;
+    }
+}
